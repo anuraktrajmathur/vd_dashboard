@@ -1,5 +1,7 @@
 # Vehicle Dynamics Dashboard
 
+![Welcome Screen](assets/welcome_page.png)
+
 An interactive **Vehicle Dynamics & Yaw Stability Control Dashboard** developed using **Python** and **Streamlit** for real-time visualization of lateral vehicle dynamics, tire behaviour, and ESC intervention.
 
 The project combines a nonlinear 2-DOF vehicle model with a Pacejka tire model and a predictive Electronic Stability Control (ESC) strategy to simulate realistic vehicle handling behaviour under varying driving conditions.
@@ -21,17 +23,7 @@ The project combines a nonlinear 2-DOF vehicle model with a Pacejka tire model a
 
 ---
 
-# 🖥️ Dashboard Preview
-
-## Welcome Screen
-
-![Welcome Screen](assets/welcome_page.png)
-
----
-
 ## Main Dashboard
-
-> Add your screenshots below after running the dashboard.
 
 ### Simulation Overview
 
